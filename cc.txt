@@ -1,2 +1,2 @@
-host=0.tcp.ap.ngrok.io:16634
+host=0.tcp.ap.ngrok.io
 port=16634
